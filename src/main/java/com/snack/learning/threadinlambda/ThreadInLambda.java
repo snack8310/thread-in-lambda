@@ -1,4 +1,4 @@
-package com.snack.learning;
+package com.snack.learning.threadinlambda;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.stream.IntStream;
